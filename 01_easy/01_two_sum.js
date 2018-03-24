@@ -15,7 +15,7 @@ return [0, 1].
 
 /*
 Complexity O(n2)
-TODO: Think about hash tables approach O(n2)
+TODO: Think about hash tables approach O(n)
 */
 let twoSum = function(nums, target) {
     let result = [];
