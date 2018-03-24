@@ -31,3 +31,5 @@ let twoSum = function(nums, target) {
     return result;
 };
 
+twoSum([2, 4, 1], 6);  // [0, 1]
+
